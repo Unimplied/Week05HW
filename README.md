@@ -3,5 +3,6 @@
 * Bonny Mogollon
 * Ambar Ruiz
 * Napoleon Santana
+* John Stulich
 * Rebecca Tobias
 * Alexander Vega
