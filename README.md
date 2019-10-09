@@ -1,5 +1,7 @@
 # NAMES
-* Czerinton kunaraja
+* Czerinton Kunaraja
+* Bonny Mogollon
 * Ambar Ruiz
 * Napoleon Santana
 * Alexander Vega
+
