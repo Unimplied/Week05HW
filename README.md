@@ -1,4 +1,5 @@
 # NAMES
+* Daniel Tapia
 * Czerinton Kunaraja
 * Bonny Mogollon
 * Ambar Ruiz
