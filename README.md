@@ -1,4 +1,4 @@
 # NAMES
 * Alexander Vega
 * Napoleon Santana
-* stulich john
+* John Stulich
